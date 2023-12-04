@@ -8,3 +8,16 @@ Tech Stack:
 - NextAuth.js for authentication via GitHub OAuth.
 - TypeScript as the programming language.
 - Bootstrap as the CSS framework.
+
+To get started:
+
+run:
+'npm -i'
+## installs node_modules
+
+then run:
+'ng serve'
+
+finally: 
+'npm run dev'
+##start the project
