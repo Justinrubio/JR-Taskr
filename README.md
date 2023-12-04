@@ -19,5 +19,7 @@ then run:
 'ng serve'
 
 finally: 
+
 'npm run dev'
-##start the project
+
+- this starts the project
