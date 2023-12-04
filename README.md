@@ -13,7 +13,7 @@ To get started:
 
 run:
 'npm -i'
-## installs node_modules
+- installs node_modules
 
 then run:
 'ng serve'
